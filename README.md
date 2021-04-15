@@ -1,2 +1,2 @@
-##This is React Chat Application
++#This is React Chat Application
 
